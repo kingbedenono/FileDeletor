@@ -1,0 +1,11 @@
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\bin\Release\VtiFolderDeletor1.exe.config
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\bin\Release\VtiFolderDeletor1.exe
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\bin\Release\VtiFolderDeletor1.pdb
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\bin\Release\System.Net.Http.dll
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\bin\Release\System.Net.Http.xml
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.Form1.resources
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.Properties.Resources.resources
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.csproj.GenerateResource.Cache
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.csproj.CoreCompileInputs.cache
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.exe
+C:\Users\kingbeko\source\repos\VtiFolderDeletor1\VtiFolderDeletor1\obj\Release\VtiFolderDeletor1.pdb
